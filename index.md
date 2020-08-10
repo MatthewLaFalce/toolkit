@@ -1,5 +1,3 @@
-# Toolkit
-
 This repo contains useful code snippets for Rails web apps.
 
 ## Ruby on Rails
