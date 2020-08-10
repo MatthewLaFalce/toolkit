@@ -10,4 +10,4 @@ kramdown:
 plugins:
   - jemoji
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-architect
