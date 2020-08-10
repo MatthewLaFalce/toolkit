@@ -1,0 +1,13 @@
+title: Knowledge
+markdown: kramdown
+highlighter: rouge
+peramlink: pretty
+
+kramdown:
+  input: GFM
+  highlighter: rouge
+
+plugins:
+  - jemoji
+
+theme: jekyll-theme-midnight
