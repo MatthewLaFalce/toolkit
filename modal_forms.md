@@ -2,12 +2,12 @@
 
 ## Steps
 <!--ts-->
-* [Step 0 - Prepare Your Bundle](#step-0---prepare-your-bundle)
-* [Step 1 - Modifying your layout files](#step-1---modifying-your-layout-files)
-* [Step 2 - Creating modal.js](#step-2---creating-modaljs)
-* [Step 3 - Creating the Modal Responder](#step-3---creating-the-modal-responder)
-* [Step 4 - Modifying the Application Controller](#step-4---modifying-the-application-controller)
-* [Step 5 - Time to Use It!](#step-5---time-to-use-it)
+* [Prepare Your Bundle](#step-0---prepare-your-bundle)
+* [Modifying your layout files](#step-1---modifying-your-layout-files)
+* [Creating modal.js](#step-2---creating-modaljs)
+* [Creating the Modal Responder](#step-3---creating-the-modal-responder)
+* [Modifying the Application Controller](#step-4---modifying-the-application-controller)
+* [Time to Use It!](#step-5---time-to-use-it)
 <!--te-->
 
 ## Step 0 - Prepare Your Bundle
