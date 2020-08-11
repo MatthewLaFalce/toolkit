@@ -1,4 +1,4 @@
-# Modal Forms
+# Pagination
 
 ## Steps
 <!--ts-->
