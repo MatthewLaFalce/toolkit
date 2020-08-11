@@ -11,3 +11,5 @@ plugins:
   - jemoji
 
 logo: assets/images/logo.jpg
+
+theme: jekyll-theme-architect
