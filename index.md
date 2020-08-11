@@ -1,8 +1,8 @@
 This repo contains useful code snippets for Rails web apps.
 
 ## Ruby on Rails
-- [Dynamic Redirects]({{site.url}}/ruby_on_rails/dynamic_redirects)
-- [Modal Forms]({{site.url}}/ruby_on_rails/modal_forms)
+- [Dynamic Redirects](ruby_on_rails/dynamic_redirects)
+- [Modal Forms](ruby_on_rails/modal_forms)
 - [Pagination]({{site.url}}/ruby_on_rails/pagination)
 
 ## Bash Utilities
