@@ -1,3 +1,6 @@
+---
+permalink: /pagination/
+---
 # Pagination
 
 ## Steps

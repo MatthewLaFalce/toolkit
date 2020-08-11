@@ -1,3 +1,6 @@
+---
+permalink: /modal_forms/
+---
 # Modal Forms
 
 ## Steps

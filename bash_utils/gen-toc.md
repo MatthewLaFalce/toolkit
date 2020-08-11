@@ -1,3 +1,6 @@
+---
+permalink: /gen-toc/
+---
 ```bash
 #!/usr/bin/env bash
 

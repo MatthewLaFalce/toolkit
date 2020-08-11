@@ -1,3 +1,6 @@
+---
+permalink: /dynamic_redirects/
+---
 # Dynamic Redirects
 
 ## How to redirect_to the last location
