@@ -10,10 +10,4 @@ kramdown:
 plugins:
   - jemoji
 
-theme: just-the-docs
-# logo: assets/images/logo.jpg
-
-footer_content: "Copyright &copy; 2020 Matthew LaFalce."
-aux_links:
-  "Toolkit on GitHub":
-    - "//github.com/MatthewLaFalce/toolkit"
+logo: assets/images/logo.jpg
